@@ -34,7 +34,7 @@ Change the table to look like the following:
 |Status   |  
 
 
-Your Table1 should now be called certifications table, and look like the image below: 
+Your Table1 should now be called ```Certification``` table, and look like the image below: 
 
 ![certification](/images/certification.png)
 

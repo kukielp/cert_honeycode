@@ -11,8 +11,8 @@ You are already familiar with spreadsheets and forumla's, but you need to enable
 ```
 
 In this lab, we will be demonstating : 
-1. Create a honeycode account ![Create account](HoneyCodeAccCreate.md)
-2. Create a honeycode workbook ![Create workbook](1.CreateWorkbook/certificationworkbook.md)
+1. Create a honeycode account [Create account](HoneyCodeAccCreate.md)
+2. Create a honeycode workbook [Create workbook](1.CreateWorkbook/certificationworkbook.md)
 3. Create certification table, explain data setup. Filter on other tables, date format. 
 4. Create main page 
 5. Flag creation and using hidden buttons to create user experience. 

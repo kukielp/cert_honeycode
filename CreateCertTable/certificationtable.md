@@ -1,15 +1,6 @@
-# Creation of the main table, and pulling in data from other tables.
-
-The first thing we need to do is to create a main table. 
+# Creation of the main Certification table 
 
 This table will be used to hold the main components of a team member, and i have a series of requirements i need to meet. 
-
-1. I need to know who the persons manager is, so i can track their number of people certified in their role. This will enable me to gamify it later when we start the education. The first manager with the most certifications or all their team certified will be put in lights. 
-2. I need to know the person name.
-3. I need to know what certifications the person has, so i want to get the certification code link to provide evidence they got certified
-4. I want to know if the person is a consultant or a contractor in the organisation
-5. I want to be able to start with 1 certification, but be able to add more in should i need to. AWS has currently 11 certifications, but this may change, so the requirement will be to add more to it.
-6. I want to send out an email to a user when someone gets certified. 
 
 To create the certification table, on your "My Drive" click on certifications and it will create a new table called "Table1". 
 

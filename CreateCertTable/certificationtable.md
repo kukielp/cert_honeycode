@@ -24,9 +24,8 @@ Change the table to look like the following:
 |Column1   |Name   |
 |Column2   |Manager   |
 |Column3   |Practitioner   |
-
-|Add columns    |  
-|---|---|
+|Add columns   |  
+|---|
 |ArchAss  |   
 |DevAss      | 
 |SysOpsAss   |  

@@ -42,14 +42,13 @@ Your Table1 should now be called certifications table, and look like the image b
 Congratulations, you have created your first table. Now we need to populate the associated certificate tables
 
 To create a new table click on the table bar and add 6 new tables: 
+
 ![certification](/images/newtabcreate.png)
 
 Click ```add a blank table```
 
 You will be doing this a total of 6 new tables. Each table, change its name to the list below, and add columns to it - ``` Name Date Value ```
  
-
-e.g. 
 ![certification](/images/assarch.png)
 
 - AssArch
@@ -71,10 +70,12 @@ To do this we will be using a function in the table which will filter out the re
 On the tables bar, click on the certification table. 
 
 Highlight the full column for practioner right click and choose format - 
+
 ![format ](/images/format.png)
 
 Put the following formula in the Format field - 
 ```=FILTER(Practitioner,"Practitioner[Name]=[Name]")```
+
 ![formula ](/images/practformula.png)
 
 Continue this for all the other 6 columns : 

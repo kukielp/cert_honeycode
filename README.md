@@ -25,7 +25,7 @@ You are already familiar with spreadsheets and forumla's, but you need to enable
 2. Create a honeycode workbook [Create workbook](CreateWorkbook/README.md)
 3. Create certification table, explain data setup. [Create certification table](CreateCertTable/step1-certificationtable.md)
 4. Create all certification table types, in this example we have AWS certifications we want to track which are Practitioner, Associate Architect, Associate Developer, Associate SysOps, Professional Architect and Professional DevOps. [Create certification table](CreateCertTable/step2-createcertlevel.md)
-5. Create a filter which will communicate to the main certification table. [Create filters](CreateCertTable/filtercreation.md)
+5. Create a filter which will communicate to the main certification table. [Create filters](CreateCertTable/README.md)
 7. [Create some dummy data](CreateCertTable/filtercreation.md)
 8. Create main first page listing ALL people in the cerification table
 9. Create first hidden button to do a formula on ALL people 

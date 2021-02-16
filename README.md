@@ -21,12 +21,12 @@ You are already familiar with spreadsheets and forumla's, but you need to enable
 
 ## Setup instructions:
 
-1. Create a honeycode account [Create account](HoneyCodeAccCreate.md). You can also share this with other team members by inviting them to collaborate. Note that there are limitations on the free tier account to 20 people, however this can be implemented with SAML if required, but more on that on FAQ's.
-2. Create a honeycode workbook [Create workbook](CreateWorkbook/certificationworkbook.md)
-3. Create certification table, explain data setup. [Create certification table](CreateCertTable/certificationtable.md)
-4. Create all certification table types, in this example we have AWS certifications we want to track which are Practitioner, Associate Architect, Associate Developer, Associate SysOps, Professional Architect and Professional DevOps. [Create certification table](CreateCertTable/createcertlevel.md)
+1. Create a honeycode account [Create account](README.md). You can also share this with other team members by inviting them to collaborate. Note that there are limitations on the free tier account to 20 people, however this can be implemented with SAML if required, but more on that on FAQ's.
+2. Create a honeycode workbook [Create workbook](CreateWorkbook/README.md)
+3. Create certification table, explain data setup. [Create certification table](CreateCertTable/step1-certificationtable.md)
+4. Create all certification table types, in this example we have AWS certifications we want to track which are Practitioner, Associate Architect, Associate Developer, Associate SysOps, Professional Architect and Professional DevOps. [Create certification table](CreateCertTable/step2-createcertlevel.md)
 5. Create a filter which will communicate to the main certification table. [Create filters](CreateCertTable/filtercreation.md)
-7. Create some dummy data. 
+7. [Create some dummy data](CreateCertTable/filtercreation.md)
 8. Create main first page listing ALL people in the cerification table
 9. Create first hidden button to do a formula on ALL people 
 10. Create all certification buttons on main page to only show people who are certified in a specific filter value. 
